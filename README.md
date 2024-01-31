@@ -41,27 +41,26 @@ Voila ! Validation Sucessful.
 ## Usage
 
 
-User can do the payments on the merchant app by selecting TimeToken as a payment method.
-
-![App Screen](https://github.com/Niteshknows/sortingVisualiser.github.io/assets/62033523/9f2db461-e63c-4085-b71d-949b1b925c23)
+User can do the payments on the merchant app by selecting TimeToken as a payment method.  
+<img src="https://github.com/Niteshknows/sortingVisualiser.github.io/assets/62033523/9f2db461-e63c-4085-b71d-949b1b925c23" alt="Image Description" width="300"/>
 
 On the payment page user have to enter Card Detail and OTP. 
 
-![App Screen](https://github.com/Niteshknows/sortingVisualiser.github.io/assets/62033523/9f8b41de-9fb2-47e4-9012-235d60902c7a)
+<img src="https://github.com/Niteshknows/sortingVisualiser.github.io/assets/62033523/9f8b41de-9fb2-47e4-9012-235d60902c7a" alt="Image Description" width="300"/>
 
 To Generate the OTP user will open TimeToken app which is for OTP generation. User will login the TimeToken app using email and password.
 
-![Screenshot_20240130_023959_TimeToken](https://github.com/Niteshknows/sortingVisualiser.github.io/assets/62033523/59d94691-ad0e-454a-9948-3cbda44ff18d)
+<img src="https://github.com/Niteshknows/sortingVisualiser.github.io/assets/62033523/59d94691-ad0e-454a-9948-3cbda44ff18d" alt="Image Description" width="300"/>
 
 Once the user is logged in with correct username and password, payment card details and TOTP is visible.
 
-![Screenshot_20240130_024247_TimeToken](https://github.com/Niteshknows/sortingVisualiser.github.io/assets/62033523/3ef31ff0-afd2-4603-bd7a-04d2665941f6)
+<img src="https://github.com/Niteshknows/sortingVisualiser.github.io/assets/62033523/3ef31ff0-afd2-4603-bd7a-04d2665941f6" alt="Image Description" width="300"/>
 
 The TOTP or Time Based One Time Password will keep refreshing every two minutes. To generate the TOTP you do not need any type of connection.
 
 The user will copy the OTP and again redirect to the payment page in merchant app.
 
-![Screenshot_20240130_024456_Merchant-TimeToken](https://github.com/Niteshknows/sortingVisualiser.github.io/assets/62033523/b8f155b7-f777-4b82-b45f-92b10b400b4a)
+<img src="https://github.com/Niteshknows/sortingVisualiser.github.io/assets/62033523/b8f155b7-f777-4b82-b45f-92b10b400b4a" alt="Image Description" width="300"/>
 
 Once the user enters correct OTP the validation is successful !
 ## My algorithm for TOTP
